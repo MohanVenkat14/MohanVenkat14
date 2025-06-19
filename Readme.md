@@ -4,8 +4,8 @@ I'm **Kalla Mohan Venkat**, an enthusiastic Computer Science Engineering student
 ## Skills and Expertise<br>
 **Programming Languages:** Java, JavaScript<br>  **Databases:** MySQL ,SQL<br>
 **Web Development:** HTML, CSS, JavaScript <br> **Data Structures & Algorithms:** Strong foundation in DSA using Java <br>
-**Software Development:** Building responsive UIs and solving real-world problems <
-**Version Control:** Git, GitHub  
+**Software Development:** Building responsive UIs and solving real-world problems <br>
+**Version Control:** Git, GitHub  <br>
 **Other Interests:** ServiceNow Development, Frontend Projects (e.g., PizzaHut Landing Page)
 
 
